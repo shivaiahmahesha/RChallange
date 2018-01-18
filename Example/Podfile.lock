@@ -1,0 +1,16 @@
+PODS:
+  - RChallenger (0.1.0)
+
+DEPENDENCIES:
+  - RChallenger (from `../`)
+
+EXTERNAL SOURCES:
+  RChallenger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RChallenger: 331f6af93f22f6a18729ffe44a09e41138a65b7e
+
+PODFILE CHECKSUM: e7a554157267522c99d8e50bc1f3604008a03104
+
+COCOAPODS: 1.2.1
