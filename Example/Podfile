@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RChallenger_Example' do
+  pod 'RChallenger', :path => '../'
+
+  target 'RChallenger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
